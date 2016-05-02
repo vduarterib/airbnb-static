@@ -1,20 +1,36 @@
 seb:
+  owner_name: Sebastien Saunier
   city: Paris
-  picture: card_paris.jpg
+  picture: card-paris.jpg
   name: Seb's home
   description: Charming room with patio
   avatar: seb.jpg
+  wifi: true
+  accomodates: 2
+  beds: 1
+  rating: 3
+
 
 anne:
+  owner_name: Anne Romanoff
   city: Bruxelles
-  picture: card_bruxelles.jpg
+  picture: card-brussels.jpeg
   name: Anne's's home
-  description: Charming room with patio
-  avatar: seb.jpg
+  description: Lovely house
+  avatar: anne.jpg
+  wifi: true
+  accomodates: 4
+  beds: 2
+  rating: 3
 
-Romain:
+romain:
+  owner_name: Romain Paillard
   city: Londres
-  picture: card_bruxelles.jpg
-  name: Anne's's home
-  description: Charming room with patio
-  avatar: seb.jpg
+  picture: card-london.jpeg
+  name: Romain's home
+  description: Nice flat in Picadilly
+  avatar: romain.jpg
+  wifi: true
+  max guests: 2
+  beds: 1
+  rating: 4
