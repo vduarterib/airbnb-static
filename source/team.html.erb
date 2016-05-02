@@ -1,0 +1,12 @@
+<div class="text-center">
+  <h1>Our team</h1>
+  <% team = %w(seb romain anne) %>
+    <ul class="list-inline">
+     <% team.each do |member| %>
+     <li>
+        <h2><%= member %></h2>
+        <%= image_tag "#{member}.jpg", class: "avatar-big" %>
+      </li>
+      <%end%>
+    </ul>
+</div>

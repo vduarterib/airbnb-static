@@ -1,0 +1,20 @@
+seb:
+  city: Paris
+  picture: card_paris.jpg
+  name: Seb's home
+  description: Charming room with patio
+  avatar: seb.jpg
+
+anne:
+  city: Bruxelles
+  picture: card_bruxelles.jpg
+  name: Anne's's home
+  description: Charming room with patio
+  avatar: seb.jpg
+
+Romain:
+  city: Londres
+  picture: card_bruxelles.jpg
+  name: Anne's's home
+  description: Charming room with patio
+  avatar: seb.jpg
